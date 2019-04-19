@@ -5,8 +5,6 @@ import static org.hamcrest.Matchers.*;
 import static org.junit.Assert.*;
 
 import java.util.*;
-import java.util.List;
-import java.util.ArrayList;
 
 public class ChampionTest {
 
